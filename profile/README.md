@@ -4,7 +4,9 @@
 </br></br>
 **ROS2 | Arduino | Python | C++**
 </br></br>
-👩‍💻 My Website - [samukothings](https://samukothings.com/)
+👩‍💻 My General Github Page - [samukothings](https://github.com/samuko-things)
+</br>
+👩‍💻 My Website - [samukothings.com](https://samukothings.com/)
 </br>
 Follow me on [linkedIn](www.linkedin.com/in/samuel-obiagba-a61316196) and [X](https://x.com/Samuel_Obiagba)
 </br></br>
