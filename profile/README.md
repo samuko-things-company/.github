@@ -4,7 +4,7 @@
 </br></br>
 **ROS2 | Arduino | Python | C++**
 </br></br>
-👩‍💻 My General Github Page - [samukothings](https://github.com/samuko-things)
+👩‍💻 My Personal Github Page - [samukothings](https://github.com/samuko-things)
 </br>
 👩‍💻 My Website - [samukothings.com](https://samukothings.com/)
 </br>
